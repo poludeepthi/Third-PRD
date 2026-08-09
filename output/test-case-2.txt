@@ -1,0 +1,52 @@
+========================================================
+                 STUDENT SEMESTER REPORT
+========================================================
+Student ID                 : STUD01
+Student Name               : Varshini
+Age                        : 22
+Email                      : varshini@gmailcom
+Course                     : B.E/B.Tech
+Semester                   : 3
+Career Goal                : software development
+
+---------------- ACADEMIC SUMMARY --------------------
+Java Marks                 : 88
+SQL Marks                  : 82
+Web Technology Marks       : 79
+Aptitude Marks             : 76
+Communication Marks        : 80
+Total Marks                : 405/500
+Percentage                 : 81.00%
+Academic Result            : PASSED
+Grade                      : A
+
+---------------- ATTENDANCE SUMMARY ------------------
+Classes Conducted          : 120
+Classes Attended           : 102
+Attendance Percentage      : 85.00%
+Attendance Status          : REGULAR
+
+---------------- ASSIGNMENT SUMMARY ------------------
+Valid Assignments          : 5
+Assignment Total           : 41
+Assignment Average         : 8.20
+Assignment Status          : SATISFACTORY
+
+---------------- FEE SUMMARY -------------------------
+Base Semester Fee          : ?50000.00
+Scholarship Percentage     : 5%
+Scholarship Amount         : ?2500.00
+Final Payable Fee          : ?47500.00
+Amount Paid                : ?47500.00
+Fee Balance                : ?0.00
+Fee Status                 : PAID
+
+---------------- FINAL STATUS ------------------------
+Semester Clearance         : CLEARED FOR NEXT SEMESTER
+
+---------------- FAILED CONDITIONS -------------------
+None
+
+---------------- RECOMMENDATIONS ---------------------
+Maintain the current performance in the next semester.
+========================================================

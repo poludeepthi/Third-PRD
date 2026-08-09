@@ -1,0 +1,13 @@
+=======================================================
+                    CAMPUSTRACK
+========================================================
+       Student Academic Management System
+--------------------------------------------------------
+Enter student ID: 
+stu123
+Enter full name: 
+deepthi
+Enter age: 
+18
+Enter email: 
+deepthi@gmail.com

@@ -1,0 +1,52 @@
+========================================================
+                 STUDENT SEMESTER REPORT
+========================================================
+Student ID                 : STUD03
+Student Name               : PADMA
+Age                        : 23
+Email                      : padma@gmail.com
+Course                     : B.E/B.Tech
+Semester                   : 2
+Career Goal                : become a software development
+
+---------------- ACADEMIC SUMMARY --------------------
+Java Marks                 : 40
+SQL Marks                  : 40
+Web Technology Marks       : 40
+Aptitude Marks             : 40
+Communication Marks        : 40
+Total Marks                : 200/500
+Percentage                 : 40.00%
+Academic Result            : PASSED
+Grade                      : D
+
+---------------- ATTENDANCE SUMMARY ------------------
+Classes Conducted          : 100
+Classes Attended           : 75
+Attendance Percentage      : 75.00%
+Attendance Status          : REGULAR
+
+---------------- ASSIGNMENT SUMMARY ------------------
+Valid Assignments          : 3
+Assignment Total           : 15
+Assignment Average         : 5.00
+Assignment Status          : SATISFACTORY
+
+---------------- FEE SUMMARY -------------------------
+Base Semester Fee          : ?50000.00
+Scholarship Percentage     : 0%
+Scholarship Amount         : ?0.00
+Final Payable Fee          : ?50000.00
+Amount Paid                : ?50000.00
+Fee Balance                : ?0.00
+Fee Status                 : PAID
+
+---------------- FINAL STATUS ------------------------
+Semester Clearance         : CLEARED FOR NEXT SEMESTER
+
+---------------- FAILED CONDITIONS -------------------
+None
+
+---------------- RECOMMENDATIONS ---------------------
+Maintain the current performance in the next semester.
+========================================================
