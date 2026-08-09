@@ -1,3 +1,45 @@
+========================================================
+                 STUDENT SEMESTER REPORT
+========================================================
+Student ID                 : STUD05
+Student Name               : Swapna
+Age                        : 23
+Email                      : swapna@gmail.com
+Course                     : B.E/B.Tech
+Semester                   : 4
+Career Goal                : become a full stack developer
+
+---------------- ACADEMIC SUMMARY --------------------
+Java Marks                 : 89
+SQL Marks                  : 87
+Web Technology Marks       : 89
+Aptitude Marks             : 98
+Communication Marks        : 78
+Total Marks                : 441/500
+Percentage                 : 88.20%
+Academic Result            : PASSED
+Grade                      : A+
+
+---------------- ATTENDANCE SUMMARY ------------------
+Classes Conducted          : 120
+Classes Attended           : 100
+Attendance Percentage      : 83.33%
+Attendance Status          : REGULAR
+
+---------------- ASSIGNMENT SUMMARY ------------------
+Valid Assignments          : 2
+Assignment Total           : 14
+Assignment Average         : 7.00
+Assignment Status          : SATISFACTORY
+
+---------------- FEE SUMMARY -------------------------
+Base Semester Fee          : ?50000.00
+Scholarship Percentage     : 5%
+Scholarship Amount         : ?2500.00
+Final Payable Fee          : ?47500.00
+Amount Paid                : ?47500.00
+Fee Balance                : ?0.00
+Fee Status                 : PAID
 
 ---------------- FINAL STATUS ------------------------
 Semester Clearance         : CLEARED FOR NEXT SEMESTER
